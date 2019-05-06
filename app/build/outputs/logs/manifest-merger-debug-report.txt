@@ -1,0 +1,155 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Salvopark\Desktop\GeoQuiz\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\Salvopark\Desktop\GeoQuiz\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\Salvopark\Desktop\GeoQuiz\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\Salvopark\Desktop\GeoQuiz\app\src\main\AndroidManifest.xml:2:1-22:12
+MERGED from [com.android.support:appcompat-v7:28.0.0-rc02] C:\Users\Salvopark\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0-rc02.aar\ed7bf35a2ba5e4bf1840922435c6f4e2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Salvopark\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\a8b4eb707e89a2f69799f2cd31d4e93b\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0-rc02] C:\Users\Salvopark\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0-rc02.aar\24a906a59ea77fc97af3b979f0e07061\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-rc02] C:\Users\Salvopark\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0-rc02.aar\76be7e210b0345b82d4f712b48e7d2b0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0-rc02] C:\Users\Salvopark\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0-rc02.aar\542036e1b8cbf2a1102401c6bd14e5c9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0-rc02] C:\Users\Salvopark\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0-rc02.aar\2684d835e5ea0c70fbbb80867b39ce05\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0-rc02] C:\Users\Salvopark\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0-rc02.aar\b60acb5bb0e5c7498048163d731646fa\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0-rc02] C:\Users\Salvopark\.gradle\caches\transforms-1\files-1.1\loader-28.0.0-rc02.aar\29d2c4827678375d4d98c1c24bce1c1a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0-rc02] C:\Users\Salvopark\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0-rc02.aar\c4e0e3c82d17893a5977f97082c6b10e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0-rc02] C:\Users\Salvopark\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0-rc02.aar\040bd02bc79ddb42da7df23fa5bb2397\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0-rc02] C:\Users\Salvopark\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0-rc02.aar\38745d67c17d32ab7d66be1cd5fb9597\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0-rc02] C:\Users\Salvopark\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0-rc02.aar\7ef946f8633df1278d671f58a490de5a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0-rc02] C:\Users\Salvopark\.gradle\caches\transforms-1\files-1.1\customview-28.0.0-rc02.aar\2ed2e287655e2a65e9fb91f336c393cc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-rc02] C:\Users\Salvopark\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0-rc02.aar\e3af9011d0f26d165205aa0136effd4e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-rc02] C:\Users\Salvopark\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0-rc02.aar\7c2ceb459af31be312f4d263606ede07\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0-rc02] C:\Users\Salvopark\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-rc02.aar\117e16ef217731f366fa8dc9990c5e49\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc02] C:\Users\Salvopark\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0-rc02.aar\9ac78b08ed63f09ff16d364a9bcbb399\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0-rc02] C:\Users\Salvopark\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0-rc02.aar\7d7eacd5e457614125742266c0e937be\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Salvopark\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\e136c173aa81a690fce331d3df635787\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0-rc02] C:\Users\Salvopark\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0-rc02.aar\0743cdbd253d59980ba19b63b76e1502\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-rc02] C:\Users\Salvopark\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0-rc02.aar\e441c820dd6c35f71269e10fccecbfd4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0-rc02] C:\Users\Salvopark\.gradle\caches\transforms-1\files-1.1\print-28.0.0-rc02.aar\64ecf3f14b40f0ffce79b0a3f585c8db\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Salvopark\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\8dbc49f7106fd3371c7cffe5d60bc674\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Salvopark\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\7bb799440cb8b4512e220d283687a9d7\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Salvopark\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\92c11c7e0e5cbe0dfcecf0e2e295ba60\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0-rc02] C:\Users\Salvopark\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0-rc02.aar\3daa20ebab9d6a5a1dcd8309271442d8\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Salvopark\Desktop\GeoQuiz\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\Salvopark\Desktop\GeoQuiz\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\Salvopark\Desktop\GeoQuiz\app\src\main\AndroidManifest.xml:2:1-22:12
+	package
+		ADDED from C:\Users\Salvopark\Desktop\GeoQuiz\app\src\main\AndroidManifest.xml:3:5-47
+		INJECTED from C:\Users\Salvopark\Desktop\GeoQuiz\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Salvopark\Desktop\GeoQuiz\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Salvopark\Desktop\GeoQuiz\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Salvopark\Desktop\GeoQuiz\app\src\main\AndroidManifest.xml:2:1-22:12
+		INJECTED from C:\Users\Salvopark\Desktop\GeoQuiz\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Salvopark\Desktop\GeoQuiz\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Salvopark\Desktop\GeoQuiz\app\src\main\AndroidManifest.xml:2:1-22:12
+		INJECTED from C:\Users\Salvopark\Desktop\GeoQuiz\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Salvopark\Desktop\GeoQuiz\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\Salvopark\Desktop\GeoQuiz\app\src\main\AndroidManifest.xml:5:5-20:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Salvopark\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\a8b4eb707e89a2f69799f2cd31d4e93b\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Salvopark\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\a8b4eb707e89a2f69799f2cd31d4e93b\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0-rc02] C:\Users\Salvopark\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-rc02.aar\117e16ef217731f366fa8dc9990c5e49\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0-rc02] C:\Users\Salvopark\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-rc02.aar\117e16ef217731f366fa8dc9990c5e49\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc02] C:\Users\Salvopark\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0-rc02.aar\9ac78b08ed63f09ff16d364a9bcbb399\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc02] C:\Users\Salvopark\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0-rc02.aar\9ac78b08ed63f09ff16d364a9bcbb399\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0-rc02] C:\Users\Salvopark\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-rc02.aar\117e16ef217731f366fa8dc9990c5e49\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\Salvopark\Desktop\GeoQuiz\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Users\Salvopark\Desktop\GeoQuiz\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from C:\Users\Salvopark\Desktop\GeoQuiz\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from C:\Users\Salvopark\Desktop\GeoQuiz\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\Salvopark\Desktop\GeoQuiz\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\Salvopark\Desktop\GeoQuiz\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.bignerdranch.android.geoquiz.QuizActivity
+ADDED from C:\Users\Salvopark\Desktop\GeoQuiz\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from C:\Users\Salvopark\Desktop\GeoQuiz\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Salvopark\Desktop\GeoQuiz\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Salvopark\Desktop\GeoQuiz\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from C:\Users\Salvopark\Desktop\GeoQuiz\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Salvopark\Desktop\GeoQuiz\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from C:\Users\Salvopark\Desktop\GeoQuiz\app\src\main\AndroidManifest.xml:16:27-74
+activity#com.bignerdranch.android.geoquiz.CheatActivity
+ADDED from C:\Users\Salvopark\Desktop\GeoQuiz\app\src\main\AndroidManifest.xml:19:9-60
+	android:name
+		ADDED from C:\Users\Salvopark\Desktop\GeoQuiz\app\src\main\AndroidManifest.xml:19:19-48
+uses-sdk
+INJECTED from C:\Users\Salvopark\Desktop\GeoQuiz\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Salvopark\Desktop\GeoQuiz\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Salvopark\Desktop\GeoQuiz\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0-rc02] C:\Users\Salvopark\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0-rc02.aar\ed7bf35a2ba5e4bf1840922435c6f4e2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0-rc02] C:\Users\Salvopark\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0-rc02.aar\ed7bf35a2ba5e4bf1840922435c6f4e2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Salvopark\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\a8b4eb707e89a2f69799f2cd31d4e93b\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Salvopark\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\a8b4eb707e89a2f69799f2cd31d4e93b\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0-rc02] C:\Users\Salvopark\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0-rc02.aar\24a906a59ea77fc97af3b979f0e07061\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0-rc02] C:\Users\Salvopark\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0-rc02.aar\24a906a59ea77fc97af3b979f0e07061\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-rc02] C:\Users\Salvopark\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0-rc02.aar\76be7e210b0345b82d4f712b48e7d2b0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-rc02] C:\Users\Salvopark\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0-rc02.aar\76be7e210b0345b82d4f712b48e7d2b0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-rc02] C:\Users\Salvopark\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0-rc02.aar\542036e1b8cbf2a1102401c6bd14e5c9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-rc02] C:\Users\Salvopark\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0-rc02.aar\542036e1b8cbf2a1102401c6bd14e5c9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-rc02] C:\Users\Salvopark\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0-rc02.aar\2684d835e5ea0c70fbbb80867b39ce05\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-rc02] C:\Users\Salvopark\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0-rc02.aar\2684d835e5ea0c70fbbb80867b39ce05\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-rc02] C:\Users\Salvopark\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0-rc02.aar\b60acb5bb0e5c7498048163d731646fa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-rc02] C:\Users\Salvopark\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0-rc02.aar\b60acb5bb0e5c7498048163d731646fa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0-rc02] C:\Users\Salvopark\.gradle\caches\transforms-1\files-1.1\loader-28.0.0-rc02.aar\29d2c4827678375d4d98c1c24bce1c1a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0-rc02] C:\Users\Salvopark\.gradle\caches\transforms-1\files-1.1\loader-28.0.0-rc02.aar\29d2c4827678375d4d98c1c24bce1c1a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0-rc02] C:\Users\Salvopark\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0-rc02.aar\c4e0e3c82d17893a5977f97082c6b10e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0-rc02] C:\Users\Salvopark\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0-rc02.aar\c4e0e3c82d17893a5977f97082c6b10e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-rc02] C:\Users\Salvopark\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0-rc02.aar\040bd02bc79ddb42da7df23fa5bb2397\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-rc02] C:\Users\Salvopark\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0-rc02.aar\040bd02bc79ddb42da7df23fa5bb2397\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-rc02] C:\Users\Salvopark\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0-rc02.aar\38745d67c17d32ab7d66be1cd5fb9597\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-rc02] C:\Users\Salvopark\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0-rc02.aar\38745d67c17d32ab7d66be1cd5fb9597\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-rc02] C:\Users\Salvopark\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0-rc02.aar\7ef946f8633df1278d671f58a490de5a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-rc02] C:\Users\Salvopark\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0-rc02.aar\7ef946f8633df1278d671f58a490de5a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0-rc02] C:\Users\Salvopark\.gradle\caches\transforms-1\files-1.1\customview-28.0.0-rc02.aar\2ed2e287655e2a65e9fb91f336c393cc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0-rc02] C:\Users\Salvopark\.gradle\caches\transforms-1\files-1.1\customview-28.0.0-rc02.aar\2ed2e287655e2a65e9fb91f336c393cc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-rc02] C:\Users\Salvopark\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0-rc02.aar\e3af9011d0f26d165205aa0136effd4e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-rc02] C:\Users\Salvopark\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0-rc02.aar\e3af9011d0f26d165205aa0136effd4e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-rc02] C:\Users\Salvopark\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0-rc02.aar\7c2ceb459af31be312f4d263606ede07\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-rc02] C:\Users\Salvopark\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0-rc02.aar\7c2ceb459af31be312f4d263606ede07\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0-rc02] C:\Users\Salvopark\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-rc02.aar\117e16ef217731f366fa8dc9990c5e49\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0-rc02] C:\Users\Salvopark\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-rc02.aar\117e16ef217731f366fa8dc9990c5e49\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc02] C:\Users\Salvopark\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0-rc02.aar\9ac78b08ed63f09ff16d364a9bcbb399\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc02] C:\Users\Salvopark\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0-rc02.aar\9ac78b08ed63f09ff16d364a9bcbb399\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-rc02] C:\Users\Salvopark\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0-rc02.aar\7d7eacd5e457614125742266c0e937be\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-rc02] C:\Users\Salvopark\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0-rc02.aar\7d7eacd5e457614125742266c0e937be\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Salvopark\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\e136c173aa81a690fce331d3df635787\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Salvopark\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\e136c173aa81a690fce331d3df635787\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0-rc02] C:\Users\Salvopark\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0-rc02.aar\0743cdbd253d59980ba19b63b76e1502\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0-rc02] C:\Users\Salvopark\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0-rc02.aar\0743cdbd253d59980ba19b63b76e1502\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-rc02] C:\Users\Salvopark\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0-rc02.aar\e441c820dd6c35f71269e10fccecbfd4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-rc02] C:\Users\Salvopark\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0-rc02.aar\e441c820dd6c35f71269e10fccecbfd4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0-rc02] C:\Users\Salvopark\.gradle\caches\transforms-1\files-1.1\print-28.0.0-rc02.aar\64ecf3f14b40f0ffce79b0a3f585c8db\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0-rc02] C:\Users\Salvopark\.gradle\caches\transforms-1\files-1.1\print-28.0.0-rc02.aar\64ecf3f14b40f0ffce79b0a3f585c8db\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Salvopark\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\8dbc49f7106fd3371c7cffe5d60bc674\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Salvopark\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\8dbc49f7106fd3371c7cffe5d60bc674\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Salvopark\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\7bb799440cb8b4512e220d283687a9d7\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Salvopark\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\7bb799440cb8b4512e220d283687a9d7\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Salvopark\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\92c11c7e0e5cbe0dfcecf0e2e295ba60\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Salvopark\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\92c11c7e0e5cbe0dfcecf0e2e295ba60\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0-rc02] C:\Users\Salvopark\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0-rc02.aar\3daa20ebab9d6a5a1dcd8309271442d8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0-rc02] C:\Users\Salvopark\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0-rc02.aar\3daa20ebab9d6a5a1dcd8309271442d8\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Salvopark\Desktop\GeoQuiz\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Salvopark\Desktop\GeoQuiz\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Salvopark\Desktop\GeoQuiz\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Salvopark\Desktop\GeoQuiz\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Salvopark\Desktop\GeoQuiz\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Salvopark\Desktop\GeoQuiz\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Salvopark\Desktop\GeoQuiz\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Salvopark\Desktop\GeoQuiz\app\src\main\AndroidManifest.xml
